@@ -112,8 +112,8 @@ Copy this code and replace private keys with yours (add 0x before your PK if you
         },
         "snapshot_sync": {
           "sleep": 3,
-          "batch_size": 800,
-          "starting_sub_id": 160000,
+          "batch_size": 10000,
+          "starting_sub_id": 180000,
           "sync_period": 30
         }
     },
